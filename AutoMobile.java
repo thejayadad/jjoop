@@ -15,6 +15,7 @@ public class AutoMobile {
         this.color = color;
         this.year = year;
         this.mileage = mileage;
+        
 
     }
 
